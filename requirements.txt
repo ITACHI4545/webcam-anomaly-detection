@@ -1,0 +1,6 @@
+opencv-python
+numpy
+ultralytics
+insightface
+onnxruntime
+scikit-image
